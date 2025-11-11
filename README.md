@@ -5,7 +5,8 @@ A powerful Retrieval-Augmented Generation (RAG) chatbot that allows you to uploa
 ## 📄 Multi-Page Support:
 Upload and process multiple page PDF File.
 ## 🔍 Intelligent Document Analysis: 
-Automatic detection of document types (resume, cover letter, academic paper, etc.)
+Automatic detection of document types (fees worksheet,contract,payslip)
+You can include more types in the classify_document_type function.
 ## 🎯 Semantic Search: 
 Uses FAISS vector indexing for fast and accurate information retrieval
 ## 💬 Interactive Chat Interface: 

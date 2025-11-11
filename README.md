@@ -36,5 +36,5 @@ Python 3.8+
 
 ## 📋 Prerequisites
 
-Python 3.8 or higher
+Python 3.8 or higher,
 Google API Key (for Gemini LLM)
